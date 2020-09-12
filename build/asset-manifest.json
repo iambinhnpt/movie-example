@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/movie-example/static/css/main.e7f8f978.chunk.css",
+    "main.js": "/movie-example/static/js/main.34952f25.chunk.js",
+    "main.js.map": "/movie-example/static/js/main.34952f25.chunk.js.map",
+    "runtime-main.js": "/movie-example/static/js/runtime-main.b9c84a9f.js",
+    "runtime-main.js.map": "/movie-example/static/js/runtime-main.b9c84a9f.js.map",
+    "static/css/2.d5466ada.chunk.css": "/movie-example/static/css/2.d5466ada.chunk.css",
+    "static/js/2.a528f4c0.chunk.js": "/movie-example/static/js/2.a528f4c0.chunk.js",
+    "static/js/2.a528f4c0.chunk.js.map": "/movie-example/static/js/2.a528f4c0.chunk.js.map",
+    "index.html": "/movie-example/index.html",
+    "precache-manifest.842de6dae8e8f83e8fd9666fc298c642.js": "/movie-example/precache-manifest.842de6dae8e8f83e8fd9666fc298c642.js",
+    "service-worker.js": "/movie-example/service-worker.js",
+    "static/css/2.d5466ada.chunk.css.map": "/movie-example/static/css/2.d5466ada.chunk.css.map",
+    "static/css/main.e7f8f978.chunk.css.map": "/movie-example/static/css/main.e7f8f978.chunk.css.map",
+    "static/media/TMDBLogo.svg": "/movie-example/static/media/TMDBLogo.12d095ee.svg",
+    "static/media/font-awesome.scss": "/movie-example/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/styles.css": "/movie-example/static/media/revicons.2feb69cc.eot",
+    "static/media/UserLogin.scss": "/movie-example/static/media/side-image.2f8150f9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9c84a9f.js",
+    "static/css/2.d5466ada.chunk.css",
+    "static/js/2.a528f4c0.chunk.js",
+    "static/css/main.e7f8f978.chunk.css",
+    "static/js/main.34952f25.chunk.js"
+  ]
+}
